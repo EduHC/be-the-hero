@@ -29,5 +29,8 @@
     "@babel/core": "^7.0.0",
     "babel-preset-expo": "~8.0.0"
   },
+  "resolutions": {
+    "logkitty": "0.7.1"
+  },
   "private": true
 }
